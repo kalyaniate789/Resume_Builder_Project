@@ -4,7 +4,7 @@
 <p>The app has been deployed on <link>https://jovial-medovik-d15201.netlify.app/</link></p>
 
 <h2>Demo Link</h2>
-<link>https://drive.google.com/file/d/1JRwg62RDZOLQ0WwPE9Fzl04M-ZtAHbYP/view<link/>
+<link>https://drive.google.com/file/d/1k4yB8g7LJxt94h8Vx6VENysh7rrgN0-M/view?usp=sharing<link/>
 
 <h1>Features</h1>
 <p>Two Types of templates</p>
