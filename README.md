@@ -1,6 +1,6 @@
 <h1># Resume_Builder_Project</h1>
 <p>In this project you will see two types of resume templates, both of which you can choose whichever you like and you can fill in your information and make a resume.<p/>
-<h2>Deployment</h2>
+<h2>Deployment </h2>
 <p>The app has been deployed on <link>https://jovial-medovik-d15201.netlify.app/</link></p>
 
 <h2>Demo Link</h2>
